@@ -1,0 +1,24 @@
+{
+  "name": "project-react",
+  "version": "1.0.0",
+  "description": "This is a project test react + nodejs + git remote",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeSSouza/react-project.git"
+  },
+  "author": "Guilherme Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeSSouza/react-project/issues"
+  },
+  "homepage": "https://github.com/GuilhermeSSouza/react-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
